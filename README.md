@@ -5,7 +5,7 @@
 
 <p>Visit my personal website <a href="https://rindev-labs.vercel.app/" target="_blank">Rindev.Labs💻</a></p>
 
-[![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api?username=MochIsrin068&show_icons=true&theme=radical)](https://github.com/MochIsrin068)
+[![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api?username=MochIsrin068&show_icons=true&theme=radical)](https://github.com/MochIsrin068) [![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MochIsrin068&show_icons=true&theme=radical&layout=compact)](https://github.com/MochIsrin068)
 
 ## 💖 Connect With Me :
 
@@ -26,6 +26,7 @@
 <hr/>
 
 ### 📜 My Plan : 
+
 - Rich 🤑
 - Get a girlfriend 💔
 
