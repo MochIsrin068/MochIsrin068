@@ -5,16 +5,24 @@
 
 <p>Visit my personal website <a href="https://rindev-labs.vercel.app/" target="_blank">Rindev.Labs💻</a></p>
 
-[![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api?username=MochIsrin068&show_icons=true&theme=radical)](https://github.com/MochIsrin068) [![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MochIsrin068&show_icons=true&theme=radical&layout=compact)](https://github.com/MochIsrin068)
+<center style="border: 1px solid #e1e4e8; padding : 16px; border-radius: 6px">
 
+[![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api?username=MochIsrin068&show_icons=true&theme=radical)](https://github.com/MochIsrin068) <br/>
+    
+[![Moch Isrin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MochIsrin068&show_icons=true&theme=radical&layout=compact)](https://github.com/MochIsrin068)
+
+</center><br/>
+
+<div style="border: 1px solid #e1e4e8; padding : 16px; border-radius: 6px">
 ## 💖 Connect With Me :
 
 - <a href="https://www.instagram.com/is.rin98" target="_blank">Instagram 📸</a>
 - <a href="https://www.linkedin.com/in/rindev" target="_blank">LinkedIn 😎</a>
 - <a href="https://medium.com/@isrin068" target="_blank">Medium 📝</a>
+- <a href="mailto:isrin068@gmail.com">Email 📣</a>
+</div><br/>
 
-<hr/>
-
+<div style="border: 1px solid #e1e4e8; padding : 16px; border-radius: 6px">
 ## 📋 My Activities :
 
 - Work as Frontend Engineer 💪
@@ -22,12 +30,11 @@
 - Learning 🙌
 - Vibing with a copy ✌️
 - Play Guitar 🎸
+</div><br/>
 
-<hr/>
-
+<div style="border: 1px solid #e1e4e8; padding : 16px; border-radius: 6px">
 ### 📜 My Plan : 
 
 - Rich 🤑
-- Get a girlfriend 💔
-
-<hr/>
+- 🔞 Get a girlfriend 💔
+</div>
