@@ -30,7 +30,7 @@
 - Work as Frontend Engineer 💪
 - Teaching 🤓
 - Learning 🙌
-- Vibing with a copy ✌️
+- Vibing with a coffee ✌️
 - Play Guitar 🎸
 
 <hr/>
@@ -38,6 +38,6 @@
 ### 📜 My Plan : 
 
 - Rich 🤑
-- 🔞 Get a girlfriend 💔
+- 🔞 Get a girlfriend / Wife 💔
 
 <hr/>
