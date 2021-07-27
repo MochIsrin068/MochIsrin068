@@ -34,10 +34,3 @@
 - Play Guitar 🎸
 
 <hr/>
-
-### 📜 My Plan : 
-
-- Rich 🤑
-- 🔞 Get a girlfriend / Wife 💔
-
-<hr/>
