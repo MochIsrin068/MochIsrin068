@@ -36,11 +36,10 @@
 <hr/>
 
 ## Support and Donate :
+Support me and Donate with Saweria or DANA
 
-- Saweria, BCA, DANA : 
 <div style="background-color:#faae2a;padding:10px;">
     <img src="https://user-images.githubusercontent.com/42679654/171071827-4127d98f-4826-4330-9a8b-56d6b0ae059d.png" alt="https://saweria.co/overlays/qr?streamKey=8266ef001337ef559863fd6b98e5b6ad&backgroundColor=%23faae2b&barcodeColor=%23000&username=rindev98"/>
-    <img src="https://user-images.githubusercontent.com/42679654/171072408-af9614bd-690f-4c46-b547-4daf86f78f2a.png" alt="bca" width="300px"/>
     <img src="https://user-images.githubusercontent.com/42679654/171072448-36694927-420a-4554-bd8b-fa11286f4dfa.png" alt="dana" width="300px"/>
 </div>
 
