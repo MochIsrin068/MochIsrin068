@@ -18,7 +18,7 @@
 
 ## 💖 Connect With Me :
 
-- <a href="https://www.instagram.com/is.rin98" target="_blank">Instagram 📸</a>
+- <a href="https://www.instagram.com/is.rin98__" target="_blank">Instagram 📸</a>
 - <a href="https://www.linkedin.com/in/rindev" target="_blank">LinkedIn 😎</a>
 - <a href="https://medium.com/@isrin068" target="_blank">Medium 📝</a>
 - <a href="mailto:isrin068@gmail.com">Email 📣</a>
